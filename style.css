@@ -44,7 +44,6 @@ p {
 .section-title span {
 	color: greenyellow;
 }
-
 .cta {
 	display: inline-block;
 	padding: 10px 30px;
@@ -60,6 +59,23 @@ p {
 }
 .cta:hover {
 	color: white;
+	background-color: lightslategray;
+}
+.cta-project {
+	display: inline-block;
+	padding: 10px 30px;
+	color: white;
+	background-color: transparent;
+	border: 2px solid lightslategray;
+	font-size: 2rem;
+	text-transform: uppercase;
+	letter-spacing: 0.1rem;
+	margin-top: 20px;
+	transition: 0.3s ease;
+	transition-property: background-color, color;
+}
+.cta-project:hover {
+	color: greenyellow;
 	background-color: lightslategray;
 }
 .brand h1 {
