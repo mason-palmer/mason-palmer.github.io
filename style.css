@@ -98,7 +98,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: lightslategray;
+	background-color: transparent;
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -216,7 +216,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/img1.jpeg);
+	background-image: url(./img/hero.jpeg);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
