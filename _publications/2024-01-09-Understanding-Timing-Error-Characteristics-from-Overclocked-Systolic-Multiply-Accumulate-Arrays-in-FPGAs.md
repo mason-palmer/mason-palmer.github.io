@@ -26,3 +26,9 @@ intuitively expect that timing errors resulting from overclocked hardware may pr
 variation in output values, our post-silicon evaluation reveals a lack of variation in erroneous output
 values. We found an intriguing pattern where error output values are stable for a given input across
 a range of operating frequencies far exceeding the rated frequency of the FPGA.
+
+---
+
+MDPI Link : [Understanding Timing Error Characteristics from Overclocked Systolic Multiply–Accumulate Arrays in FPGAs](https://www.mdpi.com/2079-9268/14/1/4)
+
+---

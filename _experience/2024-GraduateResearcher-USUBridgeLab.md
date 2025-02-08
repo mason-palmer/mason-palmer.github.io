@@ -10,6 +10,12 @@ location: "Logan, UT"
 
 As a Graduate Researcher at USU Bridge Lab, I focused on pioneering research in the field of hardware AI accelerators. My work involved the implementation, performance analysis, and security evaluation of low-power and cloud-based AI solutions. This research not only advanced our understanding of hardware vulnerabilities but also contributed to the development of more secure and efficient AI accelerators.
 
+---
+
+<p>USU Bridge Lab | January 2023 - August 2024 | Logan, UT</p>
+
+---
+
 ## Overview
 
 - **Cutting-Edge Research:** Investigated and replicated advanced attacks (e.g., weight duplication attacks) on neural network models to develop effective mitigation strategies.

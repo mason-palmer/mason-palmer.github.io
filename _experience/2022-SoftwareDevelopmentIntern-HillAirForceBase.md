@@ -10,6 +10,12 @@ location: "Logan, UT"
 
 During my internship at Hill Air Force Base, I played an integral role in the development of mission-critical tools and applications for the U.S. Air Force. My contributions ranged from enhancing cybersecurity measures to developing innovative solutions for recruitment and onboarding, all while adhering to strict standards and protocols.
 
+---
+
+<p>United States Air Force | June 2022 - December 2023 | Logan, UT</p>
+
+---
+
 ## Overview
 
 - **Security Clearance & Trust:** Earned a Security Clearance, demonstrating reliability and trustworthiness in handling sensitive projects.

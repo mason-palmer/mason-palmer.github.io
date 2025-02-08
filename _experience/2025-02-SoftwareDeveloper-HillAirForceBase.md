@@ -10,6 +10,12 @@ location: "Hill Air Force Base, UT"
 
 In my role as a Software Developer at Hill Air Force Base, I contribute to critical software development and DevOps initiatives for the U.S. Air Force. My focus is on system modernization, secure software practices, and the migration of legacy systems to state-of-the-art platforms, ensuring enhanced performance and security for mission-critical applications.
 
+---
+
+<p>United States Air Force | January 2024 - Current | Hill Air Force Base, UT</p>
+
+---
+
 ## Overview
 
 - **System Migration:** Successfully migrated legacy applications to modern operating systems (e.g., RHEL 9) to bolster security and performance.

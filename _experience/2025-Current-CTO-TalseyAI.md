@@ -12,6 +12,12 @@ location: "Provo, UT"
 
 As the Chief Technology Officer at Talsey AI, I lead the design, development, and scaling of an advanced AI-driven guest messaging platform used daily by thousands of hotel guests across the United States. I am responsible for architecting robust machine learning solutions, transitioning legacy systems to modern microservice architectures, and ensuring that our technology meets the evolving demands of our partners and stakeholders.
 
+---
+
+<p> Talsey AI | March 2023 - Current | Provo, UT | <a href="https://talsey.com">talsey.com</a> </p>
+
+---
+
 ## Overview
 
 - **AI-Driven Solutions:** Developed and scaled state-of-the-art machine learning models that enhance personalization and drive a 20% increase in user engagement.
