@@ -1,5 +1,5 @@
 ---
-title: "Software Developer / DevOps Engineer"
+title: "Software & DevOps Engineer"
 collection: experience
 company: "United States Air Force"
 permalink: /experience/SoftwareDeveloper-HillAirForceBase
