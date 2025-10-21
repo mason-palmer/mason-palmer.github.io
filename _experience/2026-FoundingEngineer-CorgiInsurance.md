@@ -5,8 +5,6 @@ company: "Corgi Insurance (YC S24)"
 permalink: /experience/2025-FoundingEngineer-CorgiInsurance
 start: "May 2025"
 end: "Current"
-sitelink: "https://corgi.com"
-sitelinkname: "corgi.com"
 location: "San Francisco, CA"
 ---
 
@@ -14,7 +12,7 @@ As a Founding Engineer at Corgi Insurance (YC S24), I joined as the 5th engineer
 
 ---
 
-<p> Corgi Insurance (YC S24) | May 2025 - Current | San Francisco, CA | <a href="https://corgi.com">corgi.com</a> </p>
+<p> Corgi Insurance (YC S24) | May 2025 - Current | San Francisco, CA </p>
 
 ---
 
