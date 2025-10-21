@@ -2,6 +2,7 @@
 permalink: /skills/
 title: "Skills & Experience Highlights"
 author_profile: true
+published: false
 ---
 
 This page summarizes my technical strengths by category, with references to the projects and roles where these skills were developed and applied.

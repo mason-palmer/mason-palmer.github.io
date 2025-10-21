@@ -1,18 +1,18 @@
 ---
-title: "Software & DevOps Engineer"
+title: "Computer Scientist"
 collection: experience
-company: "United States Air Force"
+company: "Hill Air Force Base"
 permalink: /experience/SoftwareDeveloper-HillAirForceBase
 start: "January 2024"
-end: "Current"
+end: "May 2025"
 location: "Hill Air Force Base, UT"
 ---
 
-In my role as a Software Developer at Hill Air Force Base, I contribute to critical software development and DevOps initiatives for the U.S. Air Force. My focus is on system modernization, secure software practices, and the migration of legacy systems to state-of-the-art platforms, ensuring enhanced performance and security for mission-critical applications.
+As a Computer Scientist at Hill Air Force Base, I contributed to critical software development and DevOps initiatives for the U.S. Air Force F22 program in partnership with Lockheed Martin. My work focused on system modernization, secure software practices, development environment improvements, and the migration of legacy systems to state-of-the-art platforms, ensuring enhanced performance and security for mission-critical applications.
 
 ---
 
-<p>United States Air Force | January 2024 - Current | Hill Air Force Base, UT</p>
+<p>Hill Air Force Base | January 2024 - May 2025 | Hill AFB, UT</p>
 
 ---
 
